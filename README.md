@@ -9,4 +9,4 @@ Currently, two official plugins are available:
 
 
 
-vite react exprees(веб-сервер) веб-сокет uuid(уникальные индефикаторы)
+vite react exprees(веб-сервер) веб-сокет uuid(уникальные индефикаторы) freeice nodemon(rerender project)
